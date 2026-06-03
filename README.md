@@ -1,0 +1,2 @@
+# 02_PLANEACION_16_Conceptos_Generales_Bases_Datos
+Material apoyo.
